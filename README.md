@@ -31,12 +31,10 @@ The project simulates **real-world DevOps scenarios**, demonstrating production-
 ![Kubernetes Pods](screenshots/pods.JPG)
 
 ### Kubernetes Service
-![Kubernetes services](screenshots/servcie.JPG)
+![Kubernetes services](screenshots/service.JPG)
 
 ### Application Running
 ![Application Running](screenshots/app_running_3000port.jpeg)
-
-> **Tip:** Replace these with your actual project screenshots inside the `screenshots/` folder.
 
 ---
 
